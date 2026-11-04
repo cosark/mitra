@@ -66,6 +66,10 @@ Out of the box, Mitra is for one person and has no sign-in. Everything it stores
 
 From here, the **[documentation](https://mitracal.com/docs/)** covers your first calendar, connecting accounts, sign-in for several people and everything else. You can also read it as Markdown in [`docs/`](docs).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Mitra/)
+
 ## Contributing
 
 Issues and pull requests are welcome.
